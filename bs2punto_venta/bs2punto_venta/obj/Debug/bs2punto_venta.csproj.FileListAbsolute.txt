@@ -1,0 +1,14 @@
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\bs2punto_venta.exe.config
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\bs2punto_venta.exe
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\bs2punto_venta.pdb
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\MySql.Data.dll
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\Google.Protobuf.dll
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\bin\Debug\MySql.Data.xml
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.csprojAssemblyReference.cache
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.Form1.resources
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.Properties.Resources.resources
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.csproj.GenerateResource.cache
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.csproj.CoreCompileInputs.cache
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.csproj.CopyComplete
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.exe
+C:\Users\Isai\source\repos\bs2punto_venta\bs2punto_venta\obj\Debug\bs2punto_venta.pdb
